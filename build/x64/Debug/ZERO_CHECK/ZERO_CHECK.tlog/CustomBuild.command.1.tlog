@@ -1,0 +1,10 @@
+^D:\AI-CENTER\COMPUTING\C-TUTORIAL\BASIC\BUILD\CMAKEFILES\51E035CABE6B1132C11E843D836244D8\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/AI-Center/Computing/C-Tutorial/Basic -BD:/AI-Center/Computing/C-Tutorial/Basic/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/AI-Center/Computing/C-Tutorial/Basic/build/lab.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

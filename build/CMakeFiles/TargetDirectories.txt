@@ -1,0 +1,9 @@
+D:/AI-Center/Computing/C-Tutorial/Basic/build/CMakeFiles/Experimental.dir
+D:/AI-Center/Computing/C-Tutorial/Basic/build/CMakeFiles/Nightly.dir
+D:/AI-Center/Computing/C-Tutorial/Basic/build/CMakeFiles/Continuous.dir
+D:/AI-Center/Computing/C-Tutorial/Basic/build/CMakeFiles/NightlyMemoryCheck.dir
+D:/AI-Center/Computing/C-Tutorial/Basic/build/CMakeFiles/lab.dir
+D:/AI-Center/Computing/C-Tutorial/Basic/build/CMakeFiles/PACKAGE.dir
+D:/AI-Center/Computing/C-Tutorial/Basic/build/CMakeFiles/RUN_TESTS.dir
+D:/AI-Center/Computing/C-Tutorial/Basic/build/CMakeFiles/ALL_BUILD.dir
+D:/AI-Center/Computing/C-Tutorial/Basic/build/CMakeFiles/ZERO_CHECK.dir
